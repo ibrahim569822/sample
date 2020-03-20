@@ -94,7 +94,7 @@ h1#title {
 }
 .heading {
 	width: 90%!important;
-	margin: 0 auto!important;
+	margin: 20px auto 0!important;
 } 
 .heading h1 {
 	color:  #ff471a;
