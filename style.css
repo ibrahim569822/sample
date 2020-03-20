@@ -56,7 +56,19 @@ nav#menu {
 	color: white;
 	padding: 10px 0 30px !important;
 	display: none;
+        animation-name: navAnimation;
+        animation-duration: 1.5s;
+        animation-fill-mode: forwards;
+
 }
+@keyframes {
+  0% {
+      left: 300px;
+    } 
+  100% {
+     left: 0;
+   } 
+} 
 nav#menu .menu {
 	
 } 
