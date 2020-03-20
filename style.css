@@ -61,9 +61,9 @@ nav#menu {
         animation-fill-mode: forwards;
 
 }
-@keyframes {
+@keyframes navAnimatoion {
   0% {
-      left: 300px;
+      left: -300px;
     } 
   100% {
      left: 0;
