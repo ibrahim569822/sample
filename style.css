@@ -63,7 +63,7 @@ nav#menu {
 }
 @keyframes navAnimatoion {
   0% {
-      left: -300px;
+      left: 0;
     } 
   100% {
      left: 300px;
