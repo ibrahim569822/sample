@@ -96,12 +96,12 @@ h1#title {
 	width: 90%;
 	margin: 0 auto;
 } 
-.benda h1, #heading {
+.heading {
 	color:  #ff471a;
 	font-size: 3em;
 	margin-top: ;
 } 
-.benda h1::after, #heading::after {
+.heading::after {
 	content: "";
 	width: 70px;
 	display: block;
